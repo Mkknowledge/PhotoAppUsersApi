@@ -1,5 +1,5 @@
 {
-    "body": "{\"message\": \"hello world\"}",
+    "body": "{\"firstName\": \"Mayur\", \"lastName\": \"Kandalkar\"}",
     "resource": "/{proxy+}",
     "path": "/path/to/resource",
     "httpMethod": "POST",
